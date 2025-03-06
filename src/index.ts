@@ -7,7 +7,7 @@ import {
     addDepartment, 
     addRole, 
     addEmployee, 
-    updateEmployeeRole } from './queries';
+    updateEmployeeRole } from './queries.js';
 
 async function mainMenu() {
     const { action } = await inquirer.prompt([
