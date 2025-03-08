@@ -59,7 +59,7 @@ Once started, a **menu-driven interface** will appear, allowing you to interact 
 
 ## Walkthrough Video
 
-[https://github.com/user-attachments/assets/8ed24c35-6ab7-46f5-8cfb-05265a742f07]
+https://github.com/user-attachments/assets/8ed24c35-6ab7-46f5-8cfb-05265a742f07
 
 ## Technologies Used
 - **Node.js** - JavaScript runtime for backend execution.
